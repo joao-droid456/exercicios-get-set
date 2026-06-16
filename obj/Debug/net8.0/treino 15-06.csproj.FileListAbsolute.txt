@@ -1,0 +1,14 @@
+C:\Users\491663624\Downloads\treino 15-06\bin\Debug\net8.0\treino 15-06.exe
+C:\Users\491663624\Downloads\treino 15-06\bin\Debug\net8.0\treino 15-06.deps.json
+C:\Users\491663624\Downloads\treino 15-06\bin\Debug\net8.0\treino 15-06.runtimeconfig.json
+C:\Users\491663624\Downloads\treino 15-06\bin\Debug\net8.0\treino 15-06.dll
+C:\Users\491663624\Downloads\treino 15-06\bin\Debug\net8.0\treino 15-06.pdb
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.AssemblyInfoInputs.cache
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.AssemblyInfo.cs
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.csproj.CoreCompileInputs.cache
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.dll
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\refint\treino 15-06.dll
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.pdb
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\treino 15-06.genruntimeconfig.cache
+C:\Users\491663624\Downloads\treino 15-06\obj\Debug\net8.0\ref\treino 15-06.dll

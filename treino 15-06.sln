@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treino 15-06", "treino 15-06.csproj", "{396F6DF0-375C-90E6-33C5-CD299BB57187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396F6DF0-375C-90E6-33C5-CD299BB57187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396F6DF0-375C-90E6-33C5-CD299BB57187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396F6DF0-375C-90E6-33C5-CD299BB57187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396F6DF0-375C-90E6-33C5-CD299BB57187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B84FC9-56DE-4E81-B6A6-FEACD6914598}
+	EndGlobalSection
+EndGlobal
